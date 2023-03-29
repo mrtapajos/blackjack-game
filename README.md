@@ -1,1 +1,1 @@
-#A little web blackjack game
+A little web blackjack game
